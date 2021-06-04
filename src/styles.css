@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+img{
+    width: 100px;
+    height: 50px;
+    
+}
+
+.n1{
+    background-color: #010048;
+}
+
+
+
+button{
+    border-radius: 5px;
+}
+
+body{
+    background-image: url();
+    background-attachment: fixed;
+    background-size: cover;
+}

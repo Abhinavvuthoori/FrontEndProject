@@ -1,0 +1,21 @@
+ul{
+    list-style-type: none;
+}
+
+button{
+    border-radius: 10px;
+    box-shadow: 5px black;
+}
+
+i:hover{
+   background-color: #428bca;
+   color: white;
+}
+
+/* .b{
+    background-image: url(https://i.pinimg.com/originals/2c/db/a1/2cdba146ac9747e567584a06cffc6b46.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+} */
