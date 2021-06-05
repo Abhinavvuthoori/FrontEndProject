@@ -1,0 +1,144 @@
+{
+    "telugu":[
+        {
+            "id":1,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/95/1598395/crop_175x175_1598395.jpg",
+            "songname":"FOLLOW FOLLOW",
+            "moviename":"Nannaku Prematho",
+            "singername":"Young Tiger NTR"
+        },
+        {
+            "id":2,
+            "imageurl":"https://a10.gaanacdn.com/images/song/59/34049359/crop_175x175_1610357558.jpghttps://a10.gaanacdn.com/images/song/59/34049359/crop_175x175_1610357558.jpg",
+            "songname":"Chitti",
+            "moviename":"Jathi Ratnalu",
+            "singername":"Ram Miryala"
+        },
+        {
+            "id":3,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/1/2931801/crop_175x175_1578314524_2931801.jpg",
+            "songname":"Sarileru Neekevvaru Anthem",
+            "moviename":"Sarileru Neekevvaru",
+            "singername":"Shankar Mahadevan,Devi Sri Prasad"
+        },
+        {
+            "id":4,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/92/3069992/crop_175x175_1618547519_3069992.jpg",
+            "songname":"Maguva Maguva",
+            "moviename":"Vakeel Saab",
+            "singername":"Sid Sriram"
+        },
+        {
+            "id":5,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/43/3199843/crop_175x175_1607666144_3199843.jpg",
+            "songname":"Hey Idi Nenena",
+            "moviename":"Solo Brathuke So Better",
+            "singername":"Sid Sriram"
+        },
+        {
+            "id":6,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/32/3027832/crop_175x175_1614860956_3027832.jpg",
+            "songname":"Amigo",
+            "moviename":"A1 Express",
+            "singername":"Inno Genga"
+        },
+        {
+            "id":7,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/86/2097586/crop_175x175_1523105735_2097586.jpg",
+            "songname":"Title Song",
+            "moviename":"Bharat Ane Nenu",
+            "singername":"David Simon"
+        },
+        {
+            "id":8,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/45/3049545/crop_175x175_1616647568_3049545.jpg",
+            "songname":"Evo Evo Kalalle",
+            "moviename":"Love Story",
+            "singername":"Jonita Gandhi,Nakul Abhayankar"
+        },
+        {
+            "id":9,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/47/3927047/crop_175x175_1616416932_3927047.jpg",
+            "songname":"Emito Idhi",
+            "moviename":"Rangde",
+            "singername":"Kapil Kapilan,Haripriya"
+        },
+        {
+            "id":10,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/47/3058247/crop_175x175_1613702526_3058247.jpg",
+            "songname":"Eswara",
+            "moviename":"Uppena",
+            "singername":"Devi Sri Prasad"
+        },
+        {
+            "id":11,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/93/2450193/crop_175x175_1554727127_2450193.jpg",
+            "songname":"Prema Vennela",
+            "moviename":"Chitralahari",
+            "singername":"Sudarshan Ashok"
+        },
+        {
+            "id":12,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/0/1980600/crop_175x175_1509016973_1980600.jpg",
+            "songname":"Vunnadi Okkati Zindagi",
+            "moviename":"Vunnadi Okkati Zindagi",
+            "singername":"Sagar"
+        },
+        {
+            "id":13,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/35/2030735/crop_175x175_1512934098_2030735.jpg",
+            "songname":"MCA",
+            "moviename":"MCA",
+            "singername":"Nakash Aziz"
+        },
+        {
+            "id":14,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/50/2994350/crop_175x175_1580803652_2994350.jpg",
+            "songname":"Life Of Ram",
+            "moviename":"Jaanu",
+            "singername":"Pradeep Kumar,Govind Vasantha"
+        },
+        {
+            "id":15,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/14/2736014/crop_175x175_1567685132_2736014.jpg",
+            "songname":"Ninnu Chuse Anandamlo",
+            "moviename":"Nani's Gang Leader",
+            "singername":"Anirudh Ravichander,Sid Sriram"
+        },
+        {
+            "id":16,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/93/3069993/crop_175x175_1583914881_3069993.jpg",
+            "songname":"Ningi Chutte",
+            "moviename":"Uma Maheshwar Ugra Roopasya",
+            "singername":"Vijay Yesudas"
+        },
+        {
+            "id":17,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/2/2459102/crop_175x175_1557928885_2459102.jpg",
+            "songname":"Idhe Katha Nee Katha",
+            "moviename":"Maharshi",
+            "singername":"Vijay Prakash"
+        },
+        {
+            "id":18,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/22/2055522/crop_175x175_1522044821_2055522.jpg",
+            "songname":"Ela Ela",
+            "moviename":"Krishnarjuna Yuddham",
+            "singername":"Yazin Nizar"
+        },
+        {
+            "id":19,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/92/2049492/crop_175x175_2049492.jpg",
+            "songname":"Unnatundi Gundey",
+            "moviename":"Ninnu Kori",
+            "singername":"Karthik,Chinmayi"
+        },
+        {
+            "id":20,
+            "imageurl":"https://a10.gaanacdn.com/images/albums/0/2222500/crop_175x175_1591966754_2222500.jpg",
+            "songname":"It's all gonna be Okay",
+            "moviename":"U Turn",
+            "singername":"Anirudh Ravichander"
+        }
+    ]
+}

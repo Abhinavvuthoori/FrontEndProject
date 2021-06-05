@@ -12,8 +12,15 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  onClick(){
+  onClickTelugu(){
     this.router.navigateByUrl('/telugu')
   }
 
+  onClickHindi(){
+    this.router.navigateByUrl('/hindi')
+  }
+
+  onClickEnglish(){
+    this.router.navigateByUrl('/english')
+  }
 }

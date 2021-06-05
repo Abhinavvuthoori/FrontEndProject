@@ -1,3 +1,7 @@
 .img1{
     height: 400px;
 }
+
+.m1:hover{
+    transform: scale(1.2);
+ }

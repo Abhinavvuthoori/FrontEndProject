@@ -29,40 +29,45 @@
     </button>
   </div>
 
-  <h1 class="mt-5 bg-warning" style="margin-right: 20px; margin-left: 20px;">
+  
+
+  <!-- <h1 class="mt-5 bg-warning" style="margin-right: 20px; margin-left: 20px;">
     <a class=" text-dark"routerLink='telugu' (click)='onClick()' style="text-decoration:none;">Telugu Top Hits
-      <span><i class="fas fa-arrow-right float-end"></i></span></a></h1>
+      <span><i class="fas fa-arrow-right float-end"></i></span></a></h1> -->
 
       <div class="row row-cols-1 row-cols-md-3 g-4 m-3">
-        <div class="col">
-          <div class="card">
-            <img src="..." class="card-img-top" alt="...">
+        <div class="col-4 m1">
+          <div class="card h-100 w-50 text-center" style="margin-left: 90px; border-radius: 10px;">
+            <a (click)='onClickTelugu()'><img src="https://c.saavncdn.com/editorial/charts_TeluguChartbusters_164936_20200911191039.jpg?bch=1435050055" class="card-img-top h-100" alt="..."></a>
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title">Telugu</h5>
+              
             </div>
           </div>
         </div>
-        <div class="col">
-          <div class="card">
-            <img src="..." class="card-img-top" alt="...">
+        <div class="col-4 m1">
+          <div class="card h-100 w-50 text-center" style="margin-left: 90px; border-radius: 10px;">
+            <a (click)='onClickHindi()'><img src="http://c.saavncdn.com/editorial/charts_HindiChartbusters_101999_20200903065852.jpg?bch=1420571555" class="card-img-top h-100" alt="..."></a>
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title">Hindi</h5>
+              
             </div>
           </div>
         </div>
-        <div class="col">
-          <div class="card">
-            <img src="..." class="card-img-top" alt="...">
+        <div class="col-4 m1">
+          <div class="card h-100 w-50 text-center" style="margin-left: 90px; border-radius: 10px;">
+            <a (click)='onClickEnglish()'><img src="http://c.saavncdn.com/editorial/charts_EnglishChartbusters_136524_20201015085711.jpg?bch=1604365352" class="card-img-top h-100" alt="..."></a>
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+              <h5 class="card-title">English</h5>
+
             </div>
           </div>
         </div>
         
       </div>
+
+      
+      
 
 
   <router-outlet></router-outlet>

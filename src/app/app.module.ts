@@ -7,6 +7,9 @@ import { SigninComponent } from './signin/signin.component';
 import { HomeComponent } from './home/home.component';
 import { MyfavouritesComponent } from './myfavourites/myfavourites.component';
 import { TelugutophitsComponent } from './telugutophits/telugutophits.component';
+import { HindihitsComponent } from './hindihits/hindihits.component';
+import { EnglishhitsComponent } from './englishhits/englishhits.component';
+import {HttpClientModule} from '@angular/common/http'
 
 @NgModule({
   declarations: [
@@ -14,11 +17,14 @@ import { TelugutophitsComponent } from './telugutophits/telugutophits.component'
     SigninComponent,
     HomeComponent,
     MyfavouritesComponent,
-    TelugutophitsComponent
+    TelugutophitsComponent,
+    HindihitsComponent,
+    EnglishhitsComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
