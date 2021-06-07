@@ -15,7 +15,7 @@ export class TelugutophitsComponent implements OnInit {
   constructor(private tsObj:SongsService,private router:Router) { }
 
   ngOnInit(): void {
-    this.mySubscription= this.tsObj.getUsersById().subscribe(
+    this.mySubscription= this.tsObj.getTeluguSongs().subscribe(
       userData=>{
         this.users=userData;
       },

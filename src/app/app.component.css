@@ -4,7 +4,11 @@ input{
     height: 40px;
 }
 
-
+.active{
+    background-color: #ff8000;
+    color: black;
+    font-weight: bold;
+}
 
 .nav-item{
     font-weight: bold;

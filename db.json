@@ -9,7 +9,7 @@
         },
         {
             "id":2,
-            "imageurl":"https://a10.gaanacdn.com/images/song/59/34049359/crop_175x175_1610357558.jpghttps://a10.gaanacdn.com/images/song/59/34049359/crop_175x175_1610357558.jpg",
+            "imageurl":"https://static.toiimg.com/photo/81361653.jpeg",
             "songname":"Chitti",
             "moviename":"Jathi Ratnalu",
             "singername":"Ram Miryala"
@@ -139,6 +139,300 @@
             "songname":"It's all gonna be Okay",
             "moviename":"U Turn",
             "singername":"Anirudh Ravichander"
+        }
+    ],
+    "hindi":[
+        {
+            "id":1,
+            "imageurl":"https://m.media-amazon.com/images/M/MV5BMWIzNGU3ZWEtNTRjOC00OTYzLWFlZmUtMjE5NmMxMmE0MGIwXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR4,0,182,268_AL__QL50.jpg",
+            "songname":"Aankh Marey",
+            "moviename":"simmba",
+            "singername":"neha kakkar,mika singh"
+        
+      },
+      {
+            "id":2,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/e/ed/Batla_House_poster.jpg",
+            "songname":"O saki saki",
+            "moviename":"Batl house",
+            "singername":"tulsi kumar,neha kakkar"
+        
+          },
+      {
+            "id":3,
+            "imageurl":"https://static-koimoi.akamaized.net/wp-content/new-galleries/2019/08/checkout-first-look-of-vicky-kaushal-and-nora-fatehi-from-pachtaoge-0001.jpg",
+            "songname":"Pachtaoge",
+            "moviename":"jaani ve",
+            "singername":"Arijith singh"
+        
+          },
+      {
+            "id":4,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Luka_Chuppi_poster.jpeg/220px-Luka_Chuppi_poster.jpeg",
+            "songname":"coca cola",
+            "moviename":"luka chuppi",
+            "singername":"Akhil,dhvani"
+        
+          },
+      {
+            "id":5,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Kabir_Singh.jpg/220px-Kabir_Singh.jpg",
+            "songname":"Tera ban januga",
+            "moviename":"Kabir singh",
+            "singername":"Akhil sachdeva,tulsi kumar"
+        
+          },
+      {
+            "id":6,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Kabir_Singh.jpg/220px-Kabir_Singh.jpg ",
+            "songname":"Bekhayli",
+            "moviename":"Kabir singh",
+            "singername":"sachet tando"
+        
+          },
+      {
+            "id":7,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Kesari_poster.jpg/220px-Kesari_poster.jpg",
+            "songname":"ve maahi",
+            "moviename":"Kisari",
+            "singername":"Arijit singh,asees kaur"
+        
+          },
+      {
+            "id":8,
+            "imageurl":"https://1.bp.blogspot.com/-2-TWKMf7Ouo/XnwcqTWv-sI/AAAAAAAAAQI/W3kIzNiIg-Qu4s821I8QcqP2jtL0ET1ZgCLcBGAsYHQ/s640/tum-hi-aana-song-lyrics-marjaavaan-2019.jpg",
+            "songname":"Tum hi aana",
+            "moviename":"mar jaavan",
+            "singername":"Jubin Nauityal,payal dev"
+        
+          },
+      {
+            "id":9,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Luka_Chuppi_poster.jpeg/220px-Luka_Chuppi_poster.jpeg",
+            "songname":"Photo",
+            "moviename":"Luka chupi",
+            "singername":"Karan sehbi"
+        
+          },{
+            "id":10,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Filhall_cover_art.webp/316px-Filhall_cover_art.webp.png",
+            "songname":"Filhall",
+            "moviename":"Filhall",
+            "singername":"B praak"
+        
+          },{
+            "id":11,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/hi/thumb/c/cc/K.G.F_Chapter_1_poster.jpg/220px-K.G.F_Chapter_1_poster.jpg",
+            "songname":"Gali Gali",
+            "moviename":"KGF 1",
+            "singername":"Neha kakkar"
+        
+          },{
+            "id":12,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Bharat_film_poster.jpg/220px-Bharat_film_poster.jpg",
+            "songname":"Slow motion",
+            "moviename":"Bharat",
+            "singername":"Shreya Ghoshal,nakash aziz"
+        
+          },{
+            "id":13,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Student_of_the_year_2_Poster.jpg/220px-Student_of_the_year_2_Poster.jpg",
+            "songname":"The Hook up song",
+            "moviename":"student of the year 2",
+            "singername":"vishal Shekhar,neha kakar"
+        
+          },{
+            "id":14,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Luka_Chuppi_poster.jpeg/220px-Luka_Chuppi_poster.jpeg",
+            "songname":"Duniyaa",
+            "moviename":"Luka chupi",
+            "singername":"Akhil"
+        
+          },{
+            "id":15,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/6/6b/Saaho_poster.jpg",
+            "songname":"Enni soni",
+            "moviename":"saaho",
+            "singername": "guru Randhawa,tulsi kumar"
+        
+          },{
+            "id":16,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/War_official_poster.jpg/220px-War_official_poster.jpg",
+            "songname":"Jai  jai shivshankar",
+            "moviename":"War",
+            "singername":"vishal Shekhar,vishal dadlani"
+        
+          },{
+            "id":17,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Total_Dhamaal_poster.jpg/220px-Total_Dhamaal_poster.jpg",
+            "songname":"mungda",
+            "moviename":"Total damaal",
+            "singername":"Jyotica tangri,shaan"
+        
+          },{
+            "id":18,
+            "imageurl":"https://1.bp.blogspot.com/-2-TWKMf7Ouo/XnwcqTWv-sI/AAAAAAAAAQI/W3kIzNiIg-Qu4s821I8QcqP2jtL0ET1ZgCLcBGAsYHQ/s640/tum-hi-aana-song-lyrics-marjaavaan-2019.jpg",
+            "songname":"thodi jagah",
+            "moviename":"mar jaavan",
+            "singername":"Arijit singh"
+        
+          },{
+            "id":19,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Kalank_Poster.jpg/220px-Kalank_Poster.jpg",
+            "songname":"Kalank title tarck",
+            "moviename":"kalank",
+            "singername":"Arijit singh"
+        
+          },{
+            "id":20,
+            "imageurl":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Bharat_film_poster.jpg/220px-Bharat_film_poster.jpg",
+            "songname":"chashni",
+            "moviename":"bharat",
+            "singername":"Abhijeet srivastava"
+        
+          }
+      
+    ],
+    "english":[
+        {
+            "id": 1,
+            "imageurl": "https://gritdaily.com/wp-content/uploads/2020/02/MV5BNmEyNTdlNzQtYWQzNC00NjZmLWIzMDEtOGE2YjhkZGMyZjRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX1000_AL_.jpg",
+            "songname": "No Time To Die",
+            "moviename": "Album",
+            "singername": " Billie Eilish"
+        },
+        {
+            "id": 2,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkqTn4miPcEy0LMunOWFfTufv4QZETpq4cOQ&usqp=CAU",
+            "songname": "Intentions",
+            "moviename": "Changes",
+            "singername": "Justin Bieber, Quavo" 
+        },
+        {
+            "id": 3,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmteoY-l0qBrj552KT1A8reTPyYLWWjpe7_g&usqp=CAU",
+            "songname": "Godzilla (feat. Juice WRLD)",
+            "moviename": " Music to Be Murdered By",
+            "singername": "Eminem"
+        },
+        {
+            "id": 4,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCsOoPBEzAgazfOBCA_XnsTEwgltwDVuZyQ&usqp=CAU",
+            "songname": "Life Is Good ",
+            "moviename": "High Off Life",
+            "singername": "Future"
+        },
+        {
+            "id": 5,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXYHMlEoRDBFfhND8-Nv2m-4cjto4LC8G4Rw&usqp=CAU",
+            "songname": " Rare",
+            "moviename": "Album",
+            "singername": "Selena Gomez"
+        },
+        {
+            "id": 6,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJbqbLRqU5EFexeH3fADmqiiY8ulmBPdsOg&usqp=CAU",
+            "songname": "Boyfriend",
+            "moviename": "Album",
+            "singername": "Selena Gomez"
+        },
+        {
+            "id": 7,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMtg9-3AJ-M_-zHLL8usEwy2uju9V97DLFA&usqp=CAU",
+            "songname": "Can We Kiss Forever? ",
+            "moviename": " Things I Wanted To Tell You",
+            "singername": "Kina"
+        },
+        {
+            "id": 8,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6B4A0hPBAMMXxG8MBzgloLiSKldFwnR9vqg&usqp=CAU",
+            "songname": "Blinding Lights",
+            "moviename": "After Hours",
+            "singername": "The Weeknd" 
+        },
+        {
+            "id": 9,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_j7CUm24Yu4-CjM58wR9uja7idI4lM9Lt8g&usqp=CAU",
+            "songname": "Toosie Slide ",
+            "moviename": "Dark Lane Demo Tapes",
+            "singername": "Drake"
+        },
+        {
+            "id": 10,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnt4uOImOueCD7X-PPzETaLq2dpWlFf5wpOw&usqp=CAU",
+            "songname": "Midnight Sky",
+            "moviename": "Plastic Hearts",
+            "singername": "Miley Cyrus"
+        },
+        {
+            "id": 11,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSka972lqrQMmWaLf23PmWCntmegtsj8c0FNg&usqp=CAU",
+            "songname": "Pov",
+            "moviename": "Positions",
+            "singername": "Ariana Grande" 
+        },
+        {
+            "id": 12,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DaPik3hFVM428aaaEB4iZMOdGIbz6xjIiw&usqp=CAU",
+            "songname": "cardigan ",
+            "moviename": "Folklore",
+            "singername": "Taylor Swift" 
+        },
+        {
+            "id": 13,
+            "imageurl": "https://i.ytimg.com/vi/L8BKCDJqCU8/maxresdefault.jpg",
+            "songname": "I Hope",
+            "moviename": "Goldmine",
+            "singername": "Gabby Barrett" 
+        },
+        {
+            "id": 14,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1OPAvMkussyiti3pFpC0b9UQCRD6Ot-IQgA&usqp=CAU",
+            "songname": "Be Like That",
+            "moviename": "Be Like That (Remixes)",
+            "singername": " Kane Brown"
+        },
+        {
+            "id": 15,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkqWp6KG10_nLjEuZfW9kAPF75RyRakr_qtw&usqp=CAU",
+            "songname": "Hard To Forget",
+            "moviename": "Southside",
+            "singername": "Sam Hunt" 
+        },
+        {
+            "id": 16,
+            "imageurl": "https://i1.sndcdn.com/artworks-ctv6mCoAVMSkuFDx-N8BcWQ-t500x500.jpg",
+            "songname": "WHATS POPPIN",
+            "moviename": "Sweet Action",
+            "singername": "Jack Harlow" 
+        },
+        {
+            "id": 17,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FUQhYscLfamoU7_EJajAfDaNW-ufaKklTg&usqp=CAU",
+            "songname": "the last great american dynasty",
+            "moviename": "Folklore",
+            "singername": "Taylor Swift" 
+        },
+        {
+            "id": 18,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHLX0uRI7COsoRJ2lLH3f1hYXtG1yq0OqLkQ&usqp=CAU",
+            "songname": "The Bigger Picture ",
+            "moviename": "My Turn",
+            "singername": "Lil Baby" 
+        },
+        {
+            "id": 19,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0dP3CnSM4ohbPuLr8PJ9oKDN-WR-B58eBg&usqp=CAU",
+            "songname": "forget me too ",
+            "moviename": "Tickets to My Downfall",
+            "singername": "Machine Gun Kelly"
+        },
+        {
+            "id": 20,
+            "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqpubbvuJ_thBPnyXG0kmeyskjGf9NznktTg&usqp=CAU",
+            "songname": "Rockstar feat. Roddy Ricch",
+            "moviename": "ROCKSTAR (BLM REMIX)",
+            "singername": "DaBaby"
         }
     ]
 }

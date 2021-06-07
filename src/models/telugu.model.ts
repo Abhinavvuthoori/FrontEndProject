@@ -1,4 +1,4 @@
-export interface telugu{
+export interface songs{
     id:number;
     imageurl:string;
     songname:string;

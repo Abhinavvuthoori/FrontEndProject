@@ -1,7 +1,7 @@
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
-import { telugu } from 'src/models/telugu.model';
+
 
 @Injectable({
   providedIn: 'root'
@@ -10,10 +10,31 @@ export class SongsService {
 
   constructor(private hc:HttpClient) { }
   
-  getUsersById():Observable<telugu>{
-    return this.hc.get<telugu>('http://localhost:3000/telugu')
-    
+  getTeluguSongs():Observable<any>{
+    return this.hc.get<any>('http://localhost:3000/telugu')
   }
 
+  getHindiSongs():Observable<any>{
+    return this.hc.get<any>('http://localhost:3000/hindi')
+
+  }
+
+  getEnglishSongs():Observable<any>{
+    return this.hc.get<any>('http://localhost:3000/english')
+  }
+   //to check login status
+ userLoginStatus():boolean{
+  if(localStorage.getItem("username")==null){
+    return false;
+  }
+  else{
+    return true;
+  }
+}
+
+//logout
+userLogout(){
+  localStorage.clear();
+}
 
 }

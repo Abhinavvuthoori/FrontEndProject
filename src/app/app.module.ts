@@ -5,11 +5,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SigninComponent } from './signin/signin.component';
 import { HomeComponent } from './home/home.component';
+import {FormsModule} from '@angular/forms'
 import { MyfavouritesComponent } from './myfavourites/myfavourites.component';
 import { TelugutophitsComponent } from './telugutophits/telugutophits.component';
 import { HindihitsComponent } from './hindihits/hindihits.component';
 import { EnglishhitsComponent } from './englishhits/englishhits.component';
-import {HttpClientModule} from '@angular/common/http'
+import {HttpClientModule} from '@angular/common/http';
+import { LoginComponent } from './login/login.component'
 
 @NgModule({
   declarations: [
@@ -19,9 +21,11 @@ import {HttpClientModule} from '@angular/common/http'
     MyfavouritesComponent,
     TelugutophitsComponent,
     HindihitsComponent,
-    EnglishhitsComponent
+    EnglishhitsComponent,
+    LoginComponent
   ],
   imports: [
+    FormsModule,
     BrowserModule,
     AppRoutingModule,
     HttpClientModule

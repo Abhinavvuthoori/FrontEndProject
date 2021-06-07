@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
+import { SongsService } from '../songs.service';
 
 @Component({
   selector: 'app-englishhits',
@@ -7,9 +9,19 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EnglishhitsComponent implements OnInit {
 
-  constructor() { }
+  mySubscription:any;
+  users;
+  constructor(private tsObj:SongsService,private router:Router) { }
 
   ngOnInit(): void {
-  }
+    this.mySubscription= this.tsObj.getEnglishSongs().subscribe(
+      userData=>{
+        this.users=userData;
+      },
+      err=>{
+        console.log("err in getting posts data",err)
+      }
+   )
 
+  }
 }

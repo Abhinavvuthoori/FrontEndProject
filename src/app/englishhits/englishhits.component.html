@@ -1,1 +1,12 @@
-<p>englishhits works!</p>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 mt-5 mb-5" >
+    <div class="col" *ngFor="let obj of users">
+    <div id="card1" class="card h-100 shadow">
+      <img src="{{obj.imageurl}}" class="card-img-top h-100" alt="...">
+      <div class="card-body text-center">
+        <h5 class="card-title">{{obj.songname}}</h5>
+        <p class="card-text">{{obj.moviename}}</p>
+        <button href="#" class="btn btn-dark" ><i class="fas fa-heart text-danger"></i> Add To Favourites</button>
+      </div>
+    </div>
+  </div>
+  </div>
